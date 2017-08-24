@@ -266,9 +266,9 @@ i.fa {
     width: 100%;
   }
 
-  .ptext .border {
-    margin: 0px 20px;
-  }
+  /*.ptext .border {
+    margin: 0px 0px;
+  }*/
 
   /*#boxes .box {
     padding: 50px 32px;
