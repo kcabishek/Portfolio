@@ -20,7 +20,13 @@ ul {
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* Global */
+
+
 .container {
   width: 80%;
   margin: auto;
@@ -224,7 +230,7 @@ article.sidebar {
   padding: 10px 10px;
 }
 
-article.sidebar.phone {
+article.sidebar.contact {
   padding: 0;
 }
 
